@@ -1,0 +1,3 @@
+[submodule "site/web/app/themes/novo-construction-theme"]
+	path = site/web/app/themes/novo-construction-theme
+	url = git@github.com:matt3188/novo-construction-theme.git
