@@ -16,6 +16,7 @@ if (file_exists($root_dir . '/.env')) {
  * Default: development
  */
 define('WP_ENV', getenv('WP_ENV') ?: 'development');
+define('WP_DEFAULT_THEME', 'novo-construction-theme');
 
 $env_config = __DIR__ . '/environments/' . WP_ENV . '.php';
 
