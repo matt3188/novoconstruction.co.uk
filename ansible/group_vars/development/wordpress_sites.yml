@@ -26,4 +26,3 @@ wordpress_sites:
       db_name: novo_dev_db
       db_user: novo_dev
       db_password: novocondev
-      dp_import: /Users/matt_coleman/Downloads
